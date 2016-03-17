@@ -21,7 +21,7 @@ testing:
 
 ## Usage:
 
-Please active the "dev" profile to browse the REST API easily
+Please active the "dev" profile to browse the REST API easily using hal browser
 
     $ mvn spring-boot:run -P dev
 
