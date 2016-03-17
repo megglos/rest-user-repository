@@ -13,7 +13,7 @@ user record management:
     - [ ] http authentication (not required)
 
 Notes:
-  - plain spring-data-rest service, no customization considered necessary
+  - plain spring-data-rest service + JSR validation + custom validator + cutom handler for password encryption
 
 testing:
   - [x] unit tests user repository & services
